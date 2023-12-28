@@ -1,0 +1,11 @@
+红蓝网文件交换平台：     https://filexc.hikvision.com.cn/hcs/controller/login/busiIndex
+红网编译器操作指南：     https://wiki.hikvision.com.cn/pages/viewpage.action?pageId=3768528
+exchange操作指南：       https://wiki.hikvision.com.cn/pages/viewpage.action?pageId=176966623   
+gitlab:                           https://innovation-gitlab.hikvision.com.cn/YS/openbiz-embdev/documents.git
+
+
+ezservices代码仓库地址    https://innovation-gitlab.hikvision.com.cn/YS/openbiz-embdev/ezservices.git
+
+常见问题知识库   https://hikfaq.hikvision.com.cn/home
+
+10.1.75.129   yehejun@YHJ
