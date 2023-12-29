@@ -8,4 +8,4 @@ ezservices代码仓库地址    https://innovation-gitlab.hikvision.com.cn/YS/op
 
 常见问题知识库   https://hikfaq.hikvision.com.cn/home
 
-10.1.75.129   yehejun@YHJ
+服务器IP：10.1.75.129  用户名：yehejun  密码：yehejun@YHJ
